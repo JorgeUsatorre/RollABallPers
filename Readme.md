@@ -6,4 +6,4 @@ Este proyecto parte de la base de un sencillo Roll a Ball, en este proyecto aña
 
 La primera funcionalidad nueva que añadí al proyecto es la aparicion de un enemigo el cual nos perseguira durante el juego, el enemigo en cuestion en el proyecto es un arbol.
 
-    ![capturaEnemigo.png](Imagenes%2FcapturaEnemigo.png)
+    ![capturaEnemigo.png](Imagenes/capturaEnemigo.png)
