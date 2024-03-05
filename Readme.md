@@ -42,5 +42,7 @@ Para esta modificación es necesario crear un nuevo script donde mediante un get
 
 ![capturaEscenarios2.png](Imagenes/codigoPared.png)
 
+![gif.gif](Imagenes/gif.gif)
+
 
 
