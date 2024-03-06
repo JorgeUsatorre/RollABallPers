@@ -26,13 +26,15 @@ Para esta funcionalidad la única modificación en cuanto a código es la siguie
 
 La tercera modificación es una modificación en cuanto al escenario del juego, en este paso añadiremos diferentes objetos cuya funcionalidad sea dificultar el nivel del juego.
 
-![capturaEscenarios2.png](Imagenes/codigoVelocidadContador.png)
+![capturaEscenarios2.png](Imagenes/capturaEscenarios2.png)
 
 ## Cuerta Modificación
 
 Esta cuarta moificacion tiene la funcion de duplicar el numero de monedas que tiene el jugador cada 5 monedas.
 
 En cuanto al código se implemente un simple if el cual multiplica la cantidad de monedas cuando detecta que va a ser la quinta moneda.
+
+![capturaEscenarios.png](Imagenes/codigoVelocidadContador.png)
 
 ## Quinta modificación
 
